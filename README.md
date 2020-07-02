@@ -32,6 +32,10 @@
 
 <a><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggd8f3yayyj31hf0u0njs.jpg" title="Methodology" alt="Methodology"></a>
 
+- And here's an example of how we reconstruct images:
+
+<a><img style="float: left;" src="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggd9ay2jhxj30b40b2mya.jpg" title="original" alt="original"> <img style="float: left;" src="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggd9azs22ej30b60b4jsm.jpg" title="reconstructed" alt="reconstructed"> </a>
+
 ---
 
 ## Contributing
